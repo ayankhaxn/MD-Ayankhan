@@ -1,4 +1,4 @@
-# MD-Ayankhan
+#Ayankhaxn
 # 💫 About Me:
 👋 About Me<br><br>💻 I'm currently working on<br>Building my skills in Full Stack Development and creating modern web projects.<br><br>🤝 I'm looking to collaborate on<br>Web development projects, open-source contributions, and beginner-friendly startup ideas.<br><br>📚 I'm looking for help with<br>Advanced backend development, real-world project architecture, and improving problem-solving skills.<br><br>🚀 I'm currently learning<br>JavaScript, React, Node.js, databases, and Data Analytics.<br><br>💬 Ask me about<br>HTML, CSS, beginner web development, LinkedIn optimization, and tech learning roadmaps.<br><br>⚡ Fun fact<br>I enjoy turning ideas into websites and learning new tech trends almost every day.
 
